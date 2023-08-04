@@ -1,3 +1,8 @@
+A chat application, where user can come and create their profile using
+G-mail id . They can find other user on chat application using their
+username and connect with them.they can send text messages as
+well as images through application.
+
 [Project Video Link ](https://drive.google.com/file/d/1WTHC47VB9n5TQCH3qosm8RkFrVDXuzso/view?usp=drive_link)
 <br>
 <br>
